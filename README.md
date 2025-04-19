@@ -1,7 +1,13 @@
-# Dashboard
+# Global Tech Layoffs Dashboard
+## Executive Summary
+
+## Table of Content
+
+
 ## 1. Overview
 Layoffs, often resulting from financial pressures, strategic pivots, or market volatility, have become increasingly prevalent in recent years—particularly in the United States. The COVID-19 pandemic significantly disrupted global operations, forcing companies to adapt rapidly to changing economic conditions. In the US market, many organisations downsized their workforce to manage declining revenue, operational inefficiencies, overhiring during growth phases, and shifts in consumer demand. This analysis focuses on the US to better understand layoff patterns across industries, company funding levels, and the broader business impact.
-This dataset offers an in-depth overview of global company layoffs that took place between March 2020 and March 2023, covering nearly 40 countries and more than 820 companies. Primarily driven by the impact of the COVID-19 pandemic, the insights were derived from a Power BI dashboard that visualises key data points such as industry sectors, total layoffs, funding categories, and funds raised by each company.
+
+This dataset offers an in-depth overview of global company layoffs that took place between March 2020 and March 2023, covering nearly 40 countries and more than 820 companies. Primarily driven by the impact of the COVID-19 pandemic, the insights were derived from a Power BI dashboard that visualises key data points such as industry sectors, total layoffs, funding categories, and impacted companies.
 
 ## 2. Project Objectives
 The objective of this project is to enhance the previous analysis of layoff trends—initially conducted through data cleaning and exploratory data analysis (EDA) using MySQL—by introducing advanced data visualisation through Power BI. The upgraded version incorporates an interactive dashboard. A key focus of the analysis is to drill down into the country most affected by layoffs—the United States—offering a closer look at the companies and sectors contributing to the trend.
@@ -29,7 +35,7 @@ When filters are applied, these numbers update instantly which helps users quick
 
 **4. Time Series Chart**
 
-Hovering or filtering shows how layoffs change month by month. Users can identify layoff surges (e.g., Jan 2023 spike) and drill down to see which companies/industries contributed.
+Hovering or filtering shows how layoffs change month by year/quarter/month. Users can identify layoff surges (e.g., Jan 2023 spike) and drill down to see which companies/industries contributed.
 
 **5. Industry Bar Chart**
 
@@ -69,6 +75,8 @@ Layoffs occurred across various tech industries, with retail tech being the most
 **4.1.4. Layoff Timeline (Mar 2020 – Mar 2023)**
 
 ![Image](https://github.com/user-attachments/assets/9576c5ce-4f33-448c-accd-1cd5d1ad791c)
+
+The overall layoff timeline from March 2020 to March 2023 shows a progressive rise, with several notable points highlighted below.
 
 - **Initial Spike During Early COVID-19 (Apr–May 2020):** Layoffs surged to around 12,000 in May 2020, reflecting the immediate economic impact of the pandemic’s first wave.
 
@@ -118,17 +126,19 @@ At the industry level, retail tech still experienced the highest number of layof
 
 ![image](https://github.com/user-attachments/assets/b3e95fa3-9797-469c-9564-e26ac7d6700e)
 
-Startups with under $50M in funding (orange dots) were particularly vulnerable, often experiencing disproportionately high layoffs. However, highly funded firms (> $200M) (blue dots) also saw major reductions, indicating that funding size alone did not guarantee resilience. Companies across all funding categories—early-stage to post-IPO—faced pressures to reduce workforce, suggesting broader structural and economic drivers.
+Startups with under $50M in funding were particularly vulnerable, often experiencing disproportionately high layoffs. However, highly funded firms (> $200M) also saw major reductions, indicating that funding size alone did not guarantee resilience. Companies across all funding categories—early-stage to post-IPO—faced pressures to reduce workforce, suggesting broader structural and economic drivers.
 
 **4.2.4. Temporal Pattern of Layoffs**
 
 ![Image](https://github.com/user-attachments/assets/aea92f57-4f2a-4610-bd42-92053adf6ed1)
 
+The layoff trend in the United States closely mirrors the global pattern, with several notable highlights outlined below.
+
 **Peak Activity:** Layoffs peaked in January 2023 (~36K), likely due to recession fears, inflationary pressures, and corporate over-hiring in earlier quarters.
 
 **Other Spikes:** Notable layoffs occurred in May 2020 (~9K) during the first COVID-19 wave and in late 2022, hinting at early responses to macroeconomic uncertainty.
 
-A gradual increase through 2022 followed by a sharp peak in early 2023 indicates a lagged reaction to market conditions.
+**Delayed Market Response** A gradual increase through 2022 followed by a sharp peak in early 2023 indicates a lagged reaction to market conditions.
 
 **4.2.5. Geographic Concentration**
 
@@ -170,7 +180,7 @@ While the U.S. dominates layoff volumes, companies like Ericsson and Booking.com
 
 **4.3.4. Temporal Patterns: Layoff Timeline Analysis**
 
-Both datasets show a major synchronised peak in January 2023, reflecting global macroeconomic tightening, interest rate hikes, and focus on lean operations.
+Both datasets show a major synchronised peak in January 2023, reflecting global macroeconomic tightening.
 
 ![Image](https://github.com/user-attachments/assets/45771cd0-20b2-4d64-b2e1-b48ade6a33ac)
 
