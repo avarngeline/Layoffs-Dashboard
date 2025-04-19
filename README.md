@@ -1,7 +1,19 @@
 # Global Tech Layoffs Dashboard
 ## Executive Summary
 
+This project explores global tech industry layoffs between March 2020 and March 2023, with a focus on the United States. Using a cleaned dataset and an interactive Power BI dashboard, the analysis reveals key patterns in workforce reductions across industries, funding levels, and regions. Key findings show that over 203,000 layoffs occurred globally, with the U.S. alone accounting for 138,000 across 535 companies. Retail tech was the most affected industry, and even well-funded firms faced significant layoffs—highlighting that financial backing alone could not shield companies from market pressures.
+
+The dashboard enables users to explore data by time, geography, industry, and funding stage. Insights point to common causes like overhiring, economic uncertainty, and shifting consumer behaviour. The project emphasises the need for more sustainable growth, adaptive business models, and cautious workforce planning in the tech sector. While the dashboard provides meaningful insights, the dataset is limited to publicly available reports and includes some estimations due to missing data.
+
 ## Table of Content
+
+[1. Overview](#1-overview)  
+[2. Project Objectives](#2-project-objectives)  
+[3. Dashboard Features](#3-dashboard-features)  
+[4. Key Insights](#4-key-insights)  
+[5. Strategic Implications](#5-strategic-implications)  
+[6. Limitations](#6-limitations)  
+[7. Conclusion](#7-conclusion)  
 
 
 ## 1. Overview
@@ -184,7 +196,7 @@ Both datasets show a major synchronised peak in January 2023, reflecting global 
 
 ![Image](https://github.com/user-attachments/assets/45771cd0-20b2-4d64-b2e1-b48ade6a33ac)
 
-**4.3.5. Startup Vulnerability**
+**4.3.5. Layoff Exposure by Funding Level**
 
 The comparison shows that globally, layoffs are more widespread across all funding levels, with a major spike in the $50M–$200M category. In the U.S., layoffs are more concentrated among companies with less than $50M in funding. While both globally and in the U.S. even highly funded companies (> $200M) experienced layoffs, the impact appears more severe and varied on a global scale.
 
