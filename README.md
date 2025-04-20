@@ -1,9 +1,9 @@
 # Global Tech Layoffs Dashboard
 ## Executive Summary
 
-This project explores global tech industry layoffs between March 2020 and March 2023, with a focus on the United States. Using a cleaned dataset and an interactive Power BI dashboard, the analysis reveals key patterns in workforce reductions across industries, funding levels, and regions. Key findings show that over 203,000 layoffs occurred globally, with the U.S. alone accounting for 138,000 across 535 companies. Retail tech was the most affected industry, and even well-funded firms faced significant layoffs—highlighting that financial backing alone could not shield companies from market pressures.
+This project explores global tech industry layoffs between March 2020 and March 2023, with a focus on the United States. Using a cleaned dataset and an interactive Power BI dashboard, the analysis reveals key patterns in workforce reductions across industries, funding levels, and regions. Key findings show that over 384K layoffs occurred globally, with the U.S. alone accounting for 257K across 1885 companies. Consumer tech was the most affected industry, and even well-funded firms faced significant layoffs—highlighting that financial backing alone could not shield companies from market pressures.
 
-The dashboard enables users to explore data by time, geography, industry, and funding stage. Insights point to common causes like overhiring, economic uncertainty, and shifting consumer behaviour. The project emphasises the need for more sustainable growth, adaptive business models, and cautious workforce planning in the tech sector. While the dashboard provides meaningful insights, the dataset is limited to publicly available reports and includes some estimations due to missing data.
+The dashboard enables users to explore data by time, geography, industry, and funding stage. Insights point to common causes like economic uncertainty. The project emphasises the need for more sustainable growth and cautious workforce planning in the tech sector. While the dashboard provides meaningful insights, the dataset is limited to publicly available reports and includes some estimations due to missing data.
 
 ## Table of Content
 
@@ -19,7 +19,7 @@ The dashboard enables users to explore data by time, geography, industry, and fu
 ## 1. Overview
 Layoffs, often resulting from financial pressures, strategic pivots, or market volatility, have become increasingly prevalent in recent years—particularly in the United States. The COVID-19 pandemic significantly disrupted global operations, forcing companies to adapt rapidly to changing economic conditions. In the US market, many organisations downsized their workforce to manage declining revenue, operational inefficiencies, overhiring during growth phases, and shifts in consumer demand. This analysis focuses on the US to better understand layoff patterns across industries, company funding levels, and the broader business impact.
 
-This dataset offers an in-depth overview of global company layoffs that took place between March 2020 and March 2023, covering nearly 40 countries and more than 820 companies. Primarily driven by the impact of the COVID-19 pandemic, the insights were derived from a Power BI dashboard that visualises key data points such as industry sectors, total layoffs, funding categories, and impacted companies.
+This dataset offers an in-depth overview of global company layoffs that took place between March 2020 and March 2023, covering 59 countries and 1885 companies. Primarily driven by the impact of the COVID-19 pandemic, the insights were derived from a Power BI dashboard that visualises key data points such as industry sectors, total layoffs, funding categories, and impacted companies.
 
 ## 2. Project Objectives
 The objective of this project is to enhance the previous analysis of layoff trends—initially conducted through data cleaning and exploratory data analysis (EDA) using MySQL—by introducing advanced data visualisation through Power BI. The upgraded version incorporates an interactive dashboard. A key focus of the analysis is to drill down into the country most affected by layoffs—the United States—offering a closer look at the companies and sectors contributing to the trend.
@@ -31,7 +31,7 @@ The objective of this project is to enhance the previous analysis of layoff tren
 
 ## 3. Dashboard Features
 
-![Image](https://github.com/user-attachments/assets/95195dbf-da11-4583-983e-69f8355aa6f5)
+![image](https://github.com/user-attachments/assets/84ab3792-2010-4586-9992-8705795a7bae)
 
 **1. Date Range Slider**
 
@@ -64,51 +64,49 @@ Users can spot industries with high funding but also high layoffs—suggesting p
 ## 4. Key Insights
 ### 4.1. Global Insights
 
-
 **4.1.1. General Layoff Statistics**
 
-![Image](https://github.com/user-attachments/assets/44f2e362-4373-42e7-8bcc-829886695158)
+![image](https://github.com/user-attachments/assets/52ce1a14-cb9b-46e2-9b45-55f3a1646f7f)
 
-
-The recent wave of tech layoffs has resulted in over 203,000 jobs lost across 823 companies in 39 countries, with affected firms laying off an average of 26% of their workforce. Despite raising significant funding, many companies, including 61 that shut down entirely, have struggled to withstand economic pressures.
+The recent wave of tech layoffs has resulted in over 384K jobs lost across 1885 companies in 59 countries, with affected firms laying off an average of 17% of their workforce. Despite raising significant funding, many companies, including 115 that shut down entirely, have struggled to withstand economic pressures.
 
 **4.1.2. Top Layoff Companies**
 
-![Image](https://github.com/user-attachments/assets/ff89edc4-e982-4353-8949-f02234ce7418)
+![image](https://github.com/user-attachments/assets/c300fa9a-977d-4259-bc7e-dacb9e6c60f7)
 
-Major tech firms, including Amazon, Google, Ericsson, Dell, and Booking.com, have accounted for a significant share of layoffs, with Amazon leading at 18,150 job cuts. These numbers highlight the extensive restructuring and cost-cutting measures within the tech and consumer services sectors.
+Major tech firms, including Amazon, Google, Meta, Salesforce, Microsoft and Philips, have accounted for a significant share of layoffs, with Amazon leading at 18,150 job cuts. These numbers highlight the extensive restructuring and cost-cutting measures within the tech and consumer services sectors.
 
 **4.1.3. Layoffs by Industry**
 
-![Image](https://github.com/user-attachments/assets/d6a4184d-8f1a-4140-add5-3c23c4a2f5d4)
+![image](https://github.com/user-attachments/assets/0507f596-d8cb-4af0-8e7b-f7ba5ef770ef)
 
-Layoffs occurred across various tech industries, with retail tech being the most affected, losing 31,370 jobs. Other sectors, including consumer tech (20,883 layoffs), food tech (14,650), and transportation (13,785), also saw significant job losses. These figures reflect how economic pressures and market shifts have forced tech companies to scale back.
+Layoffs occurred across various tech industries, with consumer tech being the most affected, losing 45,182 jobs. Other sectors, including retail tech (43,613 layoffs), other tech (36,289), and transportation (33,748), also saw significant job losses. These figures reflect how economic pressures and market shifts have forced tech companies to scale back.
 
 **4.1.4. Layoff Timeline (Mar 2020 – Mar 2023)**
 
-![Image](https://github.com/user-attachments/assets/9576c5ce-4f33-448c-accd-1cd5d1ad791c)
+![image](https://github.com/user-attachments/assets/ba449535-de2c-4546-8ef8-fce0842a704e)
 
 The overall layoff timeline from March 2020 to March 2023 shows a progressive rise, with several notable points highlighted below.
 
-- **Initial Spike During Early COVID-19 (Apr–May 2020):** Layoffs surged to around 12,000 in May 2020, reflecting the immediate economic impact of the pandemic’s first wave.
+- **Initial Spike During Early COVID-19 (Apr–May 2020):** Layoffs surged to around 27K in May 2020, reflecting the immediate economic impact of the pandemic’s first wave.
 
 - **Stability Through 2021:** From mid-2020 through most of 2021, layoff numbers remained relatively low and stable, with only minor fluctuations and periods where layoffs were nearly zero.
 
-- **Rising Layoffs in 2022:** Starting in mid-2022, layoffs began to climb, peaking at approximately 10,000 by mid-year, indicating growing economic uncertainty and shifts in company strategies.
+- **Rising Layoffs in 2022:** Starting in mid-2022, layoffs began to climb, peaking at approximately 54K in November, indicating growing economic uncertainty and shifts in company strategies.
 
-- **Peak in January 2023:** The most significant spike occurred in January 2023, with over 41,000 layoffs—marking the highest point in the entire timeline.
+- **Peak in January 2023:** The most significant spike occurred in January 2023, with over 85K layoffs—marking the highest point in the entire timeline.
 
 - **Decline After Peak:** After January 2023, layoff numbers declined sharply, suggesting a possible stabilisation or completion of major workforce reductions.
 
 **4.1.5. Layoffs by Geography**
 
-![Image](https://github.com/user-attachments/assets/1d723420-ccfd-4ca4-9887-8a8fec6f8c62)
+![image](https://github.com/user-attachments/assets/f7ddf9d3-e928-4c19-be9a-d74205fd2040)
 
 Tech layoffs were most concentrated in North America and Europe, with the United States experiencing the highest number. Other affected countries include Canada, Germany, India, Brazil, and Australia, highlighting the global impact of macroeconomic challenges on the tech industry.
 
 **4.1.6. Layoff Impact vs. Funding**
 
-![image](https://github.com/user-attachments/assets/7d0a486f-4092-4246-a4fb-d842360472b8)
+![image](https://github.com/user-attachments/assets/812fb710-16ec-470c-b70b-b6424f1bf798)
 
 Layoffs affected companies at all funding stages, from early-stage startups to well-funded firms. Even companies with over $200 million in funding were not immune, while startups with less than $50 million also faced significant layoffs. This indicates that funding alone did not protect companies from the pressures of economic challenges.
 
