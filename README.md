@@ -31,7 +31,7 @@ The objective of this project is to enhance the previous analysis of layoff tren
 
 ## 3. Dashboard Features
 
-![image](https://github.com/user-attachments/assets/84ab3792-2010-4586-9992-8705795a7bae)
+![image](https://github.com/user-attachments/assets/794b6349-8b0b-401b-befc-6ac5c5a225b2)
 
 **1. Date Range Slider**
 
@@ -78,7 +78,7 @@ Major tech firms, including Amazon, Google, Meta, Salesforce, Microsoft and Phil
 
 **4.1.3. Layoffs by Industry**
 
-![image](https://github.com/user-attachments/assets/0507f596-d8cb-4af0-8e7b-f7ba5ef770ef)
+![image](https://github.com/user-attachments/assets/f5541ea5-b683-4512-99c1-7413514b665b)
 
 Layoffs occurred across various tech industries, with consumer tech being the most affected, losing 45,182 jobs. Other sectors, including retail tech (43,613 layoffs), other tech (36,289), and transportation (33,748), also saw significant job losses. These figures reflect how economic pressures and market shifts have forced tech companies to scale back.
 
@@ -118,41 +118,41 @@ The global analysis of tech sector layoffs reveals a significant concentration o
 
 **4.2.1. Overview**
 
-![image](https://github.com/user-attachments/assets/8702cb0d-65b8-4dc5-a632-76faee28c732)
+![image](https://github.com/user-attachments/assets/17e2062b-a536-4a5f-a0e4-6826c1a7b0fa)
 
-These cards indicate that even heavily funded firms were not immune to market pressures. As between March 2020 and March 2023, the U.S. tech sector saw 138,000 layoffs across 535 companies, with 42 company shutdowns. The average funding per company stood at $391.73 million, and on average, 25% of each company’s workforce was laid off. 
+These cards indicate that even heavily funded firms were not immune to market pressures. As between March 2020 and March 2023, the U.S. tech sector saw 257K layoffs across 1,232 companies, with 72 company shutdowns. The average funding per company stood at $791.31 million, and on average, 17% of each company’s workforce was laid off. 
 
 **4.2.2. The Most Affected Industries and Companies in the US**
 
-![Image](https://github.com/user-attachments/assets/ba72e295-1f87-4303-8704-4a369693705b)
+![image](https://github.com/user-attachments/assets/30703baa-3ffd-4629-a720-849bf809667d)
 
-Layoffs in the U.S. tech sector were heavily concentrated among a few key players and industries between March 2020 and March 2023. The five most affected companies—Amazon (18,150 layoffs), Google (12,000), Dell (6,650), Cisco (4,100), and Carvana (4,000)—collectively accounted for over 32% of all U.S. tech layoffs. This highlights significant restructuring efforts by some of the industry’s largest employers in response to shifting market conditions. 
+Layoffs in the U.S. tech sector were heavily concentrated among a few key players and industries between March 2020 and March 2023. The five most affected companies—Amazon (18,150 layoffs), Google (12,000), Meta (11,000), Salesforce (10,090), and Microsoft (10,000)—collectively accounted for 24% of all U.S. tech layoffs. This highlights significant restructuring efforts by some of the industry’s largest employers in response to shifting market conditions. 
 
-![Image](https://github.com/user-attachments/assets/1c59ec34-de82-4b27-9b93-2743dc44a72e)
+![image](https://github.com/user-attachments/assets/eeac845b-47e2-4852-b14b-fd3e65abde96)
 
-At the industry level, retail tech still experienced the highest number of layoffs at 26,827, followed by consumer tech (16,173), hardware (12,394), food tech (9,567), and finance (9,264). The particularly severe impact on retail tech can be attributed to the post-pandemic normalisation of consumer shopping behaviour, which followed a period of rapid expansion and hiring during the e-commerce boom.
+At the industry level, consumer tech still experienced the highest number of layoffs at 38,080, followed by retail tech (33,590), transportation (20,885), other (19,857), and real estate (14,837). The particularly severe impact on consumer tech can be attributed to the post-pandemic normalisation of consumer shopping behaviour, which followed a period of rapid expansion and hiring during the e-commerce boom.
 
 **4.2.3. Startup Vulnerability and Funding Stage Impact**
 
-![image](https://github.com/user-attachments/assets/b3e95fa3-9797-469c-9564-e26ac7d6700e)
+![image](https://github.com/user-attachments/assets/00726f66-e537-4116-9704-3ac6ed0ffae8)
 
 Startups with under $50M in funding were particularly vulnerable, often experiencing disproportionately high layoffs. However, highly funded firms (> $200M) also saw major reductions, indicating that funding size alone did not guarantee resilience. Companies across all funding categories—early-stage to post-IPO—faced pressures to reduce workforce, suggesting broader structural and economic drivers.
 
 **4.2.4. Temporal Pattern of Layoffs**
 
-![Image](https://github.com/user-attachments/assets/aea92f57-4f2a-4610-bd42-92053adf6ed1)
+![image](https://github.com/user-attachments/assets/663f6d6d-8906-450b-acc0-fce22ef78e3e)
 
 The layoff trend in the United States closely mirrors the global pattern, with several notable highlights outlined below.
 
-**Peak Activity:** Layoffs peaked in January 2023 (~36K), likely due to recession fears, inflationary pressures, and corporate over-hiring in earlier quarters.
+**Peak Activity:** Layoffs peaked in January 2023 (~65K), likely due to recession fears, inflationary pressures, and corporate over-hiring in earlier quarters.
 
-**Other Spikes:** Notable layoffs occurred in May 2020 (~9K) during the first COVID-19 wave and in late 2022, hinting at early responses to macroeconomic uncertainty.
+**Other Spikes:** Notable layoffs occurred in May 2020 (~20K) during the first COVID-19 wave and in late 2022, hinting at early responses to macroeconomic uncertainty.
 
-**Delayed Market Response** A gradual increase through 2022 followed by a sharp peak in early 2023 indicates a lagged reaction to market conditions.
+**Delayed Market Response** A gradual increase through 2022 followed by a sharp peak in late 2022 indicates a lagged reaction to market conditions.
 
 **4.2.5. Geographic Concentration**
 
-![Image](https://github.com/user-attachments/assets/43d16547-6bb9-4785-915b-0d71dd82fa83)
+![image](https://github.com/user-attachments/assets/2ac6d80d-94de-4853-a333-2645cb9441d4)
 
 The map highlights a concentration in North America, with tech layoffs centred around key U.S. hubs such as:
 
@@ -173,32 +173,31 @@ The U.S. has been at the epicentre of global tech layoffs, with widespread impac
 
 This table provides a side-by-side comparison of key layoff metrics between the United States and the global landscape.
 
-![Image](https://github.com/user-attachments/assets/ef12e9d3-6680-4318-a7c4-78cfc5cf381c)
+![image](https://github.com/user-attachments/assets/6dbd1a81-fbce-4f0a-b87a-7e4316fd539c)
 
 **4.3.2. Top Industries by Layoff Volume**
 
-Retail leads layoffs both globally and in the U.S., but industry impacts vary. Globally, consumer, food, and transportation are heavily affected, while the U.S. sees more layoffs in hardware, healthcare, and real estate. Overall, global layoffs are higher, showing broader international disruption.
+Consumer leads layoffs both globally and in the U.S., but industry impacts vary. Globally, consumer, retail, and other are heavily affected, while the U.S. sees more layoffs in consumer, retail, and transportation. Overall, global layoffs are higher, showing broader international disruption.
 
-![Image](https://github.com/user-attachments/assets/42d3b69a-e464-49b6-a08f-40566401290c)
-
+![image](https://github.com/user-attachments/assets/fff0fb0a-c075-4ba4-8671-1c133f1c972f)
 
 **4.3.3. Company-Level Analysis: Notable Layoffs**
 
-While the U.S. dominates layoff volumes, companies like Ericsson and Booking.com illustrate how multinational firms across Europe were also severely affected.
+While the U.S. dominates global layoff volumes, the top five companies responsible—Amazon, Google, Meta, Salesforce, and Microsoft—highlight how the largest tech firms contributed significantly to workforce reductions globally.
 
-![Image](https://github.com/user-attachments/assets/7657d398-b1d1-4758-8c00-3e188319edd9)
+![image](https://github.com/user-attachments/assets/4b5ee534-1a40-44b7-ae9c-945b4bb613d8)
 
 **4.3.4. Temporal Patterns: Layoff Timeline Analysis**
 
 Both datasets show a major synchronised peak in January 2023, reflecting global macroeconomic tightening.
 
-![Image](https://github.com/user-attachments/assets/45771cd0-20b2-4d64-b2e1-b48ade6a33ac)
+![image](https://github.com/user-attachments/assets/2edbea87-bd04-470a-b4ff-71993f2403ae)
 
 **4.3.5. Layoff Exposure by Funding Level**
 
-The comparison shows that globally, layoffs are more widespread across all funding levels, with a major spike in the $50M–$200M category. In the U.S., layoffs are more concentrated among companies with less than $50M in funding. While both globally and in the U.S. even highly funded companies (> $200M) experienced layoffs, the impact appears more severe and varied on a global scale.
+The visual comparison shows that in the U.S., layoffs are largely concentrated among companies with lower funding levels, particularly those with less than $50M, as seen by the tight cluster of blue dots on the left side of the U.S. chart. In contrast, the global chart displays a wider spread of layoffs across all funding levels, including a significant number among companies with over $200M in funding. This suggests that while U.S. layoffs are more prevalent in underfunded firms, layoffs globally affect companies across all funding categories, indicating broader structural challenges in the global tech industry.
 
-![Image](https://github.com/user-attachments/assets/5f6dbb84-e494-4a19-8fd3-bff553513e77)
+![image](https://github.com/user-attachments/assets/2463e333-ff3d-4a18-b041-b02921373ae6)
 
 ## 5. Strategic Implications
 
